@@ -1,7 +1,6 @@
 # Readme
--
- meteor 
 
+- meteor 
 - metamask
 
 ```sh
